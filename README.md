@@ -8,7 +8,7 @@
        **. loops**
             The types of loops and how to access diff datatypes using loops
        **. methods**
-            Simple methods , overloaded methods , pass by variable concepts
+            Simple methods , overloaded methods , pass by value concepts
        **. 1D arrays**
             passing arrays to methods and returning
             Accesing arrays with loops and different datatypes
