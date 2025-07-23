@@ -21,4 +21,6 @@
 - **2D arrays**  
   Still working on
 
+  **Some commits are changed so see it accordingly**
+
 > 💡 Coding daily to make it a hobby and have more grip on these concepts
