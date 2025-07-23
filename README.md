@@ -1,18 +1,18 @@
 \*Programming Fundamentals
 
     concepts:
-       **. if else**
+       . **if else**
             different codes for logics
-       **. switch**
+       . **switch**
             different ways to write the switch statement
-       **. loops**
+       . **loops**
             The types of loops and how to access diff datatypes using loops
-       **. methods**
+       . **methods**
             Simple methods , overloaded methods , pass by value concepts
-       **. 1D arrays**
+       . **1D arrays**
             passing arrays to methods and returning
             Accesing arrays with loops and different datatypes
-       **. 2D arrays**
+       . **2D arrays**
             Still working on
 
     \*-> coding daily to make it a hobby and have more grip on these concepts
