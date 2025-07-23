@@ -5,10 +5,10 @@ public class BigIntegers{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number : ");
-        int number = sc.nextInt();
-
-        BigInteger result = fib(number);
-        System.out.println("fib(" + number + ")" +" = "+ result);
+        int num = sc.nextInt();
+        
+        BigInteger result = fib(num);
+        System.out.println("fib(" + num + ")" +" = "+ result);
 
     }
 
