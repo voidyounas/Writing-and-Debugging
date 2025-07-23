@@ -8,9 +8,9 @@ public class FactBigInt{
     System.out.print("Enter the number : ");
     int num = sc.nextInt();
 
-    BigInteger result = fact(num);
-    System.out.println("fact(" + num + ") = " + result);
-    System.out.println("Number of digits: " + result.toString().length());
+    BigInteger results = fact(num);
+    System.out.println("fact(" + num + ") = " + results);
+    System.out.println("Number of digits: " + results.toString().length());
 
     }
     public static BigInteger fact(int n){

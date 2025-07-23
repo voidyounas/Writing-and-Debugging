@@ -23,10 +23,9 @@ public class _arrayMethods{
          System.out.println("The sum of these two arrays is ");
          sumOfTwo(array1, array2);
 
+         
+
          sc.close();
-
-
-        
 
     }
 

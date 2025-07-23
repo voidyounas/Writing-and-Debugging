@@ -12,7 +12,7 @@ public class inputArrays{
             }
              System.out.println("The array you entered is ");
              for(int i =0;i<arr.length;i++){
-                System.out.println("A[ " + i+" ]" + " " +arr[i]);
+                System.out.println("A[ " + i+" ]" + " " + arr[i]);
              }
         }
         else{

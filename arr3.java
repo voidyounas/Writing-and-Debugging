@@ -5,7 +5,7 @@ public class arr3{
         
         int arr[] = new int[5];
 
-        System.out.print("Enter the number in array ");
+        System.out.println("Enter the number in array :  ");
         for(int i = 0; i<arr.length; i++){
 
             arr[i] = sc.nextInt();

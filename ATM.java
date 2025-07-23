@@ -15,7 +15,6 @@ public class ATM{
                 System.out.println("The PIN is correct ! Welcome ");
                 
                 
-
                 while(true){
                     System.out.println("1. Check Balance : ");
                     System.out.println("2. Deposit Money : ");
