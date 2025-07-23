@@ -1,6 +1,6 @@
-\*Programming Fundamentals
+# **Programming Fundamentals**
 
-    ### Concepts:
+### Concepts:
 
 - **if else**  
   Different codes for logics
