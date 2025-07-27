@@ -19,7 +19,8 @@
   Accessing arrays with loops and different data types
 
 - **2D arrays**  
-  Still working on
+  Simple and easy understandable codes , go through the codes
+  Learn about rows and columns and have grip on nested loops.
 
   **Some commits are changed so see it accordingly**
 
