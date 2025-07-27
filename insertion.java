@@ -26,8 +26,8 @@ public class insertion{
         for(int i =0; i <array.length; i++){
             if(array[i]==replaceNumber){
                 array[i] = replaceWith;
-                System.out.println("The number " + replaceNumber +  " is replaced at " + i + " with "+ array[i] );
                 found = true; 
+                System.out.println("The number " + replaceNumber +  " is replaced at " + i + " with "+ array[i] );
             }
         }
                 String str = Arrays.toString(array);
