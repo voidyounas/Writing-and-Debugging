@@ -40,6 +40,12 @@ This repository contains my complete journey through Programming Fundamentals, c
 - Sum, product, and flattening operations
 - Fully user-driven input and structured output
 
+### Error/Exception Handling
+
+- Simple codes for error handling
+- `try` , `catch` , `throws` and `finally`
+- Make your code error free and functioning without crashing
+
 ---
 
 ## Notes
