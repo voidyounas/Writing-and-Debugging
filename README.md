@@ -46,6 +46,11 @@ This repository contains my complete journey through Programming Fundamentals, c
 - `try` , `catch` , `throws` and `finally`
 - Make your code error free and functioning without crashing
 
+### File I/O Handling 
+- Writing in the `.txt ` files.
+- Reading from the `.txt` files.
+- Avoiding `Exceptions` and handling `errors`.
+
 ---
 
 ## Notes
