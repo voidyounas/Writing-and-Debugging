@@ -40,6 +40,12 @@ This repository contains my complete journey through Programming Fundamentals, c
 - Sum, product, and flattening operations
 - Fully user-driven input and structured output
 
+### Error/Exception Handling
+
+- Simple codes for error handling
+- `try` , `catch` , `throws` and `finally`
+- Make your code error free and functioning without crashing
+
 ---
 
 ## Notes
@@ -53,3 +59,8 @@ This repository contains my complete journey through Programming Fundamentals, c
 ## Practice Habit
 
 By building small programs every day, I'm sharpening logic, mastering Java syntax, and preparing for real-world problem solving.
+
+---
+
+## Motivation 
+- Bundle of thanks to my senior **Hasanat Ahmad** , My senior , My guide , My motivation , (Also happens to be my first cousin) , for supporting and guiding me the correct way of different approaches for problem solving and motivating me ....
