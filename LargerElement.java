@@ -13,7 +13,19 @@ public class LargerElement {
                 array[i][j] = sc.nextInt();
             }
         }
-        System.out.println("The maximum element in the array is " + largestElement(array, rows, columns));
+
+        System.out.println("Enter \n1.Largest Element \n2.Smallest Element");
+        int choice = sc.nextInt();
+
+        if(choice==1){
+            System.out.println("The largest element in the array is " + largestElement(array, rows, columns));
+        }
+        else if(choice==2){
+            System.out.println("The smallest element in the array is " + smallestElement(array, rows, columns));
+        }
+        else{
+            System.out.println("Invalid choice ");
+        }
 
     }
 
@@ -27,5 +39,17 @@ public class LargerElement {
             }
         }
         return larg;
+    }
+
+    public static int smallestElement(int arr [][], int rows , int columns ){
+        int small = arr[0][0];
+        for(int i =0; i<rows; i++){
+            for(int j =0; j<columns; j++){
+                if(arr[i][j]<small ){
+                    small = arr[i][j];
+                }
+            }
+        }
+        return small;
     }
 }
